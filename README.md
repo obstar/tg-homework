@@ -12,6 +12,7 @@ First I would like to investigate current situation of the projects and teams, t
 * What is the % coverage of the e2e automation?
 * What is the compile and build time/How long devs need to wait for new build?
 * What level/quality and how many bugs goes to production?
+* Is there code review process in place?
 
 ## Improvements/QA process
 0. Put some(or analyze) metrics in place:
